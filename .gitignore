@@ -70,6 +70,7 @@ db/*.sqlite3
 
 # Textmate project files
 /*.tmproj
+/*.komodoproject
 
 # vim artifacts
 **.swp
